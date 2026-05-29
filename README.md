@@ -1,12 +1,12 @@
 # 🔐 Cyber Security Chatbot (C# Windows Forms)
 
-## 📌 Project Overview
+##  Project Overview
 This project is a Cyber Security Chatbot developed using C# Windows Forms in Visual Studio.  
 The chatbot helps users learn about important cybersecurity topics such as passwords, scams, privacy, and phishing through interactive conversation.
 
 ---
 
-## 🎯 Features
+##  Features
 
 - 🖥️ Windows Forms GUI (Graphical User Interface)
 - 💬 Chat-based interaction system
@@ -20,7 +20,7 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. User types a message in the input box.
 2. The message is sent to the `Chatbot` class.
@@ -33,7 +33,7 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 - `Form1.cs` → Handles GUI and user interaction
 - `Chatbot.cs` → Contains all chatbot logic and intelligence
@@ -41,7 +41,7 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 ---
 
-## 💡 Topics Covered by Chatbot
+##  Topics Covered by Chatbot
 
 - Password security
 - Online scams
@@ -50,7 +50,7 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C#
 - Windows Forms (.NET Framework)
@@ -58,13 +58,13 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 ---
 
-## 📷 Demo
+##  Demo
 
 A video demonstration of the project is available on YouTube (insert your link here).
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as part of a Cyber Security chatbot assignment project.
 
