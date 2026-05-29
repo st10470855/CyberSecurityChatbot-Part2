@@ -1,4 +1,4 @@
-# 🔐 Cyber Security Chatbot (C# Windows Forms)
+#  Cyber Security Chatbot (C# Windows Forms)
 
 ##  Project Overview
 This project is a Cyber Security Chatbot developed using C# Windows Forms in Visual Studio.  
