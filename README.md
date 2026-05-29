@@ -62,11 +62,7 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 A video demonstration of the project is available on YouTube (insert your link here).
 
----
 
-##  Author
-
-Developed as part of a Cyber Security chatbot assignment project.
 
 ---
 
