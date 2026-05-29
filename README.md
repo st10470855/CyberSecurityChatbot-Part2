@@ -8,14 +8,14 @@ The chatbot helps users learn about important cybersecurity topics such as passw
 
 ##  Features
 
-- 🖥️ Windows Forms GUI (Graphical User Interface)
-- 💬 Chat-based interaction system
-- 🧠 Keyword-based response logic
-- 👤 User name memory system
-- ⭐ Favourite topic memory
-- 😊 Sentiment detection (worried, frustrated, curious)
-- 🔁 Follow-up responses based on previous topic
-- 🎲 Randomised responses for variety
+-  Windows Forms GUI (Graphical User Interface)
+-  Chat-based interaction system
+-  Keyword-based response logic
+-  User name memory system
+-  Favourite topic memory
+-  Sentiment detection (worried, frustrated, curious)
+-  Follow-up responses based on previous topic
+-  Randomised responses for variety
 - 🔊 Audio greeting support (greeting.wav)
 
 ---
